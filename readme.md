@@ -1,6 +1,7 @@
 # Player de Vídeo com Módulos - Aplicativo React
+![Player de Vídeo com Módulos](https://github.com/Fillipeaugusto/react-zustand/assets/55332682/b38c758d-6c7a-4dd8-96f2-6b251a2fc102)
 
-![Player de Vídeo com Módulos](link_para_imagem)
+
 
 Este projeto é um aplicativo React desenvolvido com Vite e gerenciamento de estado usando Zustand. O objetivo principal é criar um player de vídeo interativo que permita aos usuários selecionar e assistir a diferentes vídeos organizados em módulos (ou playlists).
 
