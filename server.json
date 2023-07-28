@@ -5,48 +5,49 @@
 			"modules": [
 				{
 					"id": 1,
-					"title": "Iniciando com React",
+					"title": "Aplicações com Next.js",
 					"lessons": [
-						{ "id": "Jai8w6K_GnY", "title": "CSS Modules", "duration": "13:45" },
 						{
-							"id": "w-DW4DhDfcw",
-							"title": "Estilização do Post",
-							"duration": "10:05"
+							"id": "ffJ38dBzrlY",
+							"title": "Build a SaaS AI Platform with Next.js 13",
+							"duration": "5:33:29"
 						},
 						{
-							"id": "D83-55LUdKE",
-							"title": "Componente: Header",
-							"duration": "06:33"
+							"id": "W6V91VeghjI",
+							"title": "Learn Next.js 13.4 Server Actions in 24 minutes (For beginners)",
+							"duration": "24:44"
 						},
 						{
-							"id": "W_ATsETujaY",
-							"title": "Componente: Sidebar",
-							"duration": "09:12"
+							"id": "Eb4GH_Fw3sg",
+							"title": "Let's build a Web 3 Messenger Dapp with NEXT.JS!",
+							"duration": "2:01:30"
 						},
-						{ "id": "Pj8dPeameYo", "title": "CSS Global", "duration": "03:23" },
 						{
-							"id": "8KBq2vhwbac",
-							"title": "Form de comentários",
-							"duration": "11:34"
+							"id": "b8gBIphfCqw",
+							"title": "Let's build Airbnb 2.0 with NEXT.JS!",
+							"duration": "4:42:42"
 						}
 					]
 				},
 				{
 					"id": 2,
-					"title": "Estrutura da aplicação",
+					"title": "Aplicações com React native",
 					"lessons": [
 						{
-							"id": "gE48FQXRZ_o",
-							"title": "Componente: Comment",
-							"duration": "13:45"
+							"id": "AkEnidfZnCU",
+							"title": "React Native Crash Course for Beginners",
+							"duration": "14:13:54"
 						},
-						{ "id": "Ng_Vk4tBl0g", "title": "Responsividade", "duration": "10:05" },
 						{
-							"id": "h5JA3wfuW1k",
-							"title": "Interações no JSX",
-							"duration": "06:33"
+							"id": "EvSUJ5lUcBw",
+							"title": "Build a Realtime Chat App in React Native",
+							"duration": "3:49:50"
 						},
-						{ "id": "1G0vSTqWELg", "title": "Utilizando estado", "duration": "09:12" }
+						{
+							"id": "qcN5B44cMHQ",
+							"title": "Shopping App UI With React Native | Part - 1 | ",
+							"duration": "2:25:32"
+						}
 					]
 				}
 			]
